@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/sulikal2008/githubdevops/_apis/build/status%2FdevopsOrg2024.githubdevops?branchName=master)](https://dev.azure.com/sulikal2008/githubdevops/_build/latest?definitionId=4&branchName=master)
